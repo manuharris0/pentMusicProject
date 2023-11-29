@@ -5,12 +5,14 @@ import Artists from './Views/Artists/Artists';
 import Beats from './Views/Beats/Beats';
 import Merch from './Views/Merch/Merch';
 import Contact from './Views/Contact/Contact';
+import NavBar from './Components/NavBar/NavBar';
 
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <NavBar />
       <Routes>
         <Route path='/' element={<Landing />} />
         <Route path='/about' element={<About />} />
