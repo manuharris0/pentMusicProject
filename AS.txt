@@ -1,0 +1,26 @@
+Pent Music Project
+------------------
+Objetivo principal:
+	Mostrar marca del sello (artistas, productores, djs etc.)
+
+Search bar movible para secciones
+secciones:
+	1. About				
+	2. artistas				
+	3. shop (beats, mechandaising etc.)	 	
+	4. contacto
+
+1. contar una breve historia, mapa, fotos, que servicio ofrece.
+	Servicios: beats, grabaciones, (mix y master mas adelante) (contratacion de dj mas adelante)
+Mostrar asociacion con Jm productions
+
+2. searchbar para mostrar (compositores, beatmakers, productores, dj etc.)
+	filtro por especialidad, mostrar cards de cada uno que al cliquear lleve al detail.
+
+3. shop
+	se separa en musica (beats) y merch (ropa y accesorios)
+
+4. redes del pent , mail, seccion poner tu mail y que llegue info	
+		
+
+
